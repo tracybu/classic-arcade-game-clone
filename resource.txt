@@ -1,0 +1,2 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
+《JavaScript高级程序设计》Author: Nicholas C.Zakas (Chinese translation version of [Professional JavaScript for Web Developers])
